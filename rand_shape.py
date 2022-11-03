@@ -75,4 +75,4 @@ for yeet in range (100):
         polygon(size,shape)
     if fillind==1:
         turtle.end_fill()
-randomvar=input("this is for keeping the turtle graphics window open so pls dont type anyhting")
+randomvar=input("this is for keeping the Turtle graphics window open so please don't type anything.")
